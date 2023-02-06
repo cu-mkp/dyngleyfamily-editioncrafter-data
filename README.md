@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/574682278.svg)](https://zenodo.org/badge/latestdoi/574682278)
 
 # Old Books, New Attitudes
-## The Movement of Medical Knowledge Across Generations in Early Modern England
+## Manuscripts & the Intergenerational Movement of Medical Knowledge in Early Modern England
 
 Historians of science agree that something pivotal happened in England in the latter decades of the sixteenth century, as medieval theories about the body or the natural world diminished in the face of new discoveries, new ideas, and a new experimental method. And yet, the reading habits of sixteenth-century English artisans, bureaucrats, merchants, and farmers tell a different story, one that this project seeks to explore. Early modern English people were avid collectors of medieval manuscripts filled with centuries-old texts related to medicine, astrology, agriculture, or craft manufacture. _Old Books, New Attitudes_ seeks to understand why early modern readers valued this medieval knowledge; how generations of readers engaged with these manuscripts over time; and what role these older books played in the development of the new medical sciences. 
 
