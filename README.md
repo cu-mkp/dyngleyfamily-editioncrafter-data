@@ -11,7 +11,7 @@ The aim of the project is to reconstruct the intergenerational transference of m
 
 ## Trinity College Cambridge MS O.8.35
 
-This open-access critical edition is only possible thanks to the digitization efforts of the librarians at Trinity College. TCC MS O.8.35 has been digitized in IIIF format; the link to the IIIF manifest is here: [https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35/manifest.json](https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35/manifest.json). Additional information on the manuscript's contents, format, and provenance is available in the Wren Library's James Catalogue Online [James Catalogue Online](https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35).
+This open-access critical edition is only possible thanks to the digitization efforts of the librarians at Trinity College. TCC MS O.8.35 has been digitized in IIIF format; the link to the IIIF manifest is here: [https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35/manifest.json](https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35/manifest.json). Additional information on the manuscript's contents, format, and provenance is available in the Wren Library's [James Catalogue Online](https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35).
 
 ## editioncrafter-data
 
