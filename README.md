@@ -1,9 +1,13 @@
 [![DOI](https://zenodo.org/badge/574682278.svg)](https://zenodo.org/badge/latestdoi/574682278)
 
 # Old Books, New Attitudes
-## A Digitial Initiative to Track the Intergenerational Transfer of Medical and Scientific Knowledge within the Dyngley Family of Sixteenth- and Seventeenth-Century England
+## The Movement of Medical Knowledge Across Generations in Early Modern England
 
-This project will transcribe and publish the medical manuscripts collected by Henry Dyngley, a sixteenth-century bureaucrat in Buckinghampshire, England. The first manuscript to be transcribed and encoded with TEI markup is Trinity College Cambridge MS O.8.35, a late fifteenth-century Middle English miscellany annotated by Henry Dyngley. The manuscript has been fully digitized in IIIF format by the librarians at Trinity College. The eventual open-access digital critical edition will be published as part of a pilot of the publication tool, Edition Crafter.
+Historians of science agree that something pivotal happened in England in the latter decades of the sixteenth century, as medieval theories about the body or the natural world diminished in the face of new discoveries, new ideas, and a new experimental method. And yet, the reading habits of sixteenth-century English artisans, bureaucrats, merchants, and farmers tell a different story, one that this project seeks to explore. Early modern English people were avid collectors of medieval manuscripts filled with centuries-old texts related to medicine, astrology, agriculture, or craft manufacture. _Old Books, New Attitudes_ seeks to understand why early modern readers valued this medieval knowledge; how generations of readers engaged with these manuscripts over time; and what role these older books played in the development of the new medical sciences. 
+
+The first stage of the project focuses on Trinity College Cambridge MS O.8.35, a later fifteenth-century guide to medical practice and one of at least five Middle English “how-to” manuscripts owned by Henry Dyneley (d. 1589). EditionCrafter will provide the ready-made infrastructure for a digital critical edition of TCC MS O.8.35 that encodes both the medieval origins, materials, and methods of the recipes and instructions original to the manuscript, as well as reader marks and signatures that demonstrate the use and reuse of the manuscript over time. If the prototype edition of TCC MS O.8.35 is a success, _Old Books, New Attitudes_ will produce digital editions of Dyneley’s other medieval manuscripts with the goal of reconstructing Dyneley’s library, and by extension, the sources he mined as author of Wellcome MS 244, a huge compendium of medical, alchemical, and meteorological knowledge. 
+
+The aim of the project is to reconstruct the intergenerational transference of medical and scientific knowledge in books, and to show how medieval sources played an important role in facilitating a culture of scientific exchange and inquiry in early modern England.
 
 ## Trinity College Cambridge MS O.8.35
 
