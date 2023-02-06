@@ -3,9 +3,13 @@
 # Old Books, New Attitudes
 ## A Digitial Initiative to Track the Intergenerational Transfer of Medical and Scientific Knowledge within the Dyngley Family of Sixteenth- and Seventeenth-Century England
 
-This project will transcribe and publish the medical manuscripts collected by Henry Dyngley, a sixteenth-century bureaucrat in Buckinghampshire, England. The open-access digital critical edition will be published with Edition Crafter.
+This project will transcribe and publish the medical manuscripts collected by Henry Dyngley, a sixteenth-century bureaucrat in Buckinghampshire, England. The first manuscript to be transcribed and encoded with TEI markup is Trinity College Cambridge MS O.8.35, a late fifteenth-century Middle English miscellany annotated by Henry Dyngley. The manuscript has been fully digitized in IIIF format by the librarians at Trinity College. The eventual open-access digital critical edition will be published as part of a pilot of the publication tool, Edition Crafter.
 
-# editioncrafter-data
+## Trinity College Cambridge MS O.8.35
+
+Information about the manuscript, including a list of its contents and information on provenance, is available in the library's [James Catalogue Online](https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35). The IIIF manifest for the digital images of the manuscript are here: [https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35/manifest.json](https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35/manifest.json).
+
+## editioncrafter-data
 
 Data and metadata for an edition created with EditionCrafter, a publication tool for digital critical editions under development by the [Making and Knowing Project](https://makingandknowing.org/) (M&K), [Performant Software Solutions](https://www.performantsoftware.com/), and a number of case-study collaborators. EditionCrafter, under development (2022-2024), is designed to be an open-source, customizable publishing tool that will allow users to deploy their own texts, data, and commentary as low-maintenance digital critical editions. It will enable the creation of static sites that rely on basic well-established technologies and workflows to address issues of longevity, maintenance, sustainability, and cost. For more about this work, see the NSF award announcement: [Crafting an Open Source Digital Publication Tool for the History of Science](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2218218&HistoricalAwards=false).
 
