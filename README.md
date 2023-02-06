@@ -11,7 +11,7 @@ The aim of the project is to reconstruct the intergenerational transference of m
 
 ## Trinity College Cambridge MS O.8.35
 
-Information about the manuscript, including a list of its contents and information on provenance, is available in the library's [James Catalogue Online](https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35). The IIIF manifest for the digital images of the manuscript are here: [https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35/manifest.json](https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35/manifest.json).
+Information about the manuscript, including a list of its contents and information on provenance, is available in the library's [James Catalogue Online](https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35). The IIIF manifest for the digital images of the manuscript is linked here: [https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35/manifest.json](https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35/manifest.json).
 
 ## editioncrafter-data
 
